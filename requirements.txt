@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+openpyxl
+sqlalchemy
+psycopg2-binary          # PostgreSQL ke liye (optional)
+streamlit
