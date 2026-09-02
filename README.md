@@ -112,7 +112,6 @@ Interactive Power BI dashboard includes:
 - Age group and high-value customer analysis
 - Interactive slicers for filtering
 
-
 ## Dashboard Screenshots
 
 ### 1. Executive Overview
@@ -125,11 +124,7 @@ Interactive Power BI dashboard includes:
 
 ### 3. Product & Discount Analysis
 
-![Product & Discount Analysis](images/Product_Discount_Analysis.png)
-
-### 4. Key Insights Page
-
-![Insights](images/Insights.png)
+![Product & Discount Analysis](images\Product_Discount_Analysis..png)
 
 ---
 
