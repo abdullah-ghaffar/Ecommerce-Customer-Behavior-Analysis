@@ -1,7 +1,5 @@
 # E-Commerce Customer Behavior Analysis
 
-### End-to-End Data Analyst Portfolio Project
-
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![SQL](https://img.shields.io/badge/SQL-SQLite-orange)
 ![Power BI](<https://img.shields.io/badge/Power%20BI-Dashboard-yellow>)
