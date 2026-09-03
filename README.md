@@ -124,7 +124,7 @@ Interactive Power BI dashboard includes:
 
 ### 3. Product & Discount Analysis
 
-![Product & Discount Analysis](images\Product_Discount_Analysis..png)
+![Product & Discount Analysis](images\Product_Discount_Analysis.png)
 
 ---
 
